@@ -1,7 +1,3 @@
-// HTML tarafına bu çizim için bir canvas lazım:
-// <canvas id="gameCanvas"></canvas>
-// <div id="scoreboard">Skor: 0</div>
-
 const canvas = document.getElementById('gameCanvas');
 const ctx = canvas.getContext('2d');
 
